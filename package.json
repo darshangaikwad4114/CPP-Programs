@@ -1,0 +1,16 @@
+{
+  "name": "cpp-programs",
+  "version": "1.0.0",
+  "description": "This is a collection of C++ programs that I have written.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "C++",
+    "programming",
+    "cpp"
+  ],
+  "author": "Darshan Gaikwad",
+  "license": "ISC"
+}
