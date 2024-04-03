@@ -1,4 +1,4 @@
-// 1. C++ Program to Print Number Entered by User
+// 2. C++ Program to Print Number Entered by User
 #include <iostream>
 using namespace std;
 
