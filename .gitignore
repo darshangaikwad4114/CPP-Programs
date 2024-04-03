@@ -1,3 +1,5 @@
 *.exe
 demo.md
-
+.vscode
+input.txt
+output.txt
